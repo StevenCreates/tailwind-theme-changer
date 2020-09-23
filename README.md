@@ -8,6 +8,9 @@
 
 # Resources
 
+- Article/Guide
+- https://medium.com/@steven_creates/how-to-build-a-dynamic-theme-changer-with-react-and-tailwind-css-with-react-usecontext-hook-a0f818603f28
+
 - Tailwind UI
 - https://tailwindui.com/components
 
